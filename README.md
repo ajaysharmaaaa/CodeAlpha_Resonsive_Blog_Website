@@ -1,2 +1,2 @@
-# CodeAlpha_Resonsive_Blog_Website
+# CodeAlpha_Responsive_Blog_Website
 This is Responsive Blog Website
